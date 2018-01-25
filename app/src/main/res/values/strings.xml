@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UILayoutSimple</string>
+    <string name="string_favorit">Favorit Color</string>
+    <string name="button_submit">Submit</string>
+</resources>
